@@ -1,5 +1,7 @@
 # Angular8Proj
 
+Projeto do curso do Maximilan Schwarzmüller, Angular 8 - The Complete Guide (2019+ Edition)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
 
 ## Development server
